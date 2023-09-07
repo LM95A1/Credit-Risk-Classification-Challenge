@@ -33,6 +33,6 @@ The analysis unfolds in these core steps:
 3. Creating a Logistic Regression Model
 4. Evaluating the Model's Performance
 
-Each step is elaborated in the Jupyter Notebook. All code was developed in Visual Studio Code and Jupyter Notebook using Python 3.11.
+*Each step is elaborated in the Jupyter Notebook. All code was developed in Visual Studio Code and Jupyter Notebook using Python 3.11.*
 
 Coding Soundtrack for this week's challenge was Of Mice and Men's EPs, [Timeless & Bloom](https://www.youtube.com/playlist?list=PLi8Dls8cfYJmvmfhysOIGkrYTl8nSSs5v).
